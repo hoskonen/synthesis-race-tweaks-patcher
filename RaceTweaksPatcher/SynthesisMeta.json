@@ -1,0 +1,5 @@
+{
+  "Nickname": "Race Tweaks Patcher",
+  "OneLineDescription": "Applies configurable race flags to winning Skyrim race records.",
+  "LongDescription": "Enables No Knockdowns for GiantRace by default. Configure additional races or use Dry Run to preview changes."
+}
