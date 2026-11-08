@@ -1,6 +1,6 @@
 {
   "AddGitPatcher": {
-    "Url": "https://github.com/hoskonen/synthesis-racetweakspatcher",
+    "Url": "https://github.com/hoskonen/synthesis-race-tweaks-patcher",
     "SelectedProject": "RaceTweaksPatcher\\RaceTweaksPatcher.csproj"
   }
 }

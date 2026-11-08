@@ -13,8 +13,8 @@ For each configured FormKey, the patcher reads the winning race record from the 
 ## Install in Synthesis
 
 1. Download [RaceTweaksPatcher.synth](RaceTweaksPatcher.synth) as a file from the repository.
-2. Open Synthesis, select your Skyrim SE profile and the group you want to use, then double-click the downloaded `.synth` file. It points to `hoskonen/synthesis-racetweakspatcher` and selects `RaceTweaksPatcher/RaceTweaksPatcher.csproj`.
-3. If you prefer to add it manually, add a **Git Repository** patcher, paste `https://github.com/hoskonen/synthesis-racetweakspatcher` into its **Input** tab, and select the same project. Use the `v0.1.0` tag in Versioning to reproduce this version.
+2. Open Synthesis, select your Skyrim SE profile and the group you want to use, then double-click the downloaded `.synth` file. It points to `hoskonen/synthesis-race-tweaks-patcher` and selects `RaceTweaksPatcher/RaceTweaksPatcher.csproj`.
+3. If you prefer to add it manually, add a **Git Repository** patcher, paste `https://github.com/hoskonen/synthesis-race-tweaks-patcher` into its **Input** tab, and select the same project. Use the `v0.1.0` tag in Versioning to reproduce this version.
 4. Once Synthesis has built the patcher, open **Settings** to review the defaults. Run the group with your intended load order and enable the resulting plugin after its input mods. The group determines the output filename.
 
 [Synthesis .synth installation guide](https://mutagen-modding.github.io/Synthesis/Synth-File/)
